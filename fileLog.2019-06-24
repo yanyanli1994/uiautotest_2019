@@ -1,0 +1,266 @@
+2019-06-24 19:02:44 [main]-[INFO] Using Chrome
+2019-06-24 19:02:45 [main]-[INFO] Started BrowserEmulator
+2019-06-24 19:02:45 [main]-[INFO] Pause 500 ms
+2019-06-24 19:02:46 [main]-[INFO] Opened url http://www.baidu.com
+2019-06-24 19:02:47 [main]-[INFO] Pause 500 ms
+2019-06-24 19:02:47 [main]-[INFO] Found element //*[@id="kw"]
+2019-06-24 19:02:47 [main]-[INFO] Found desired element //*[@id="kw"]
+2019-06-24 19:02:47 [main]-[INFO] Type github at //*[@id="kw"]
+2019-06-24 19:02:47 [main]-[INFO] Pause 500 ms
+2019-06-24 19:02:48 [main]-[INFO] Found element //*[@id="su"]
+2019-06-24 19:02:48 [main]-[INFO] Found desired element //*[@id="su"]
+2019-06-24 19:02:48 [main]-[INFO] Clicked //*[@id="su"]
+2019-06-24 19:02:51 [main]-[INFO] Pause 3000 ms
+2019-06-24 19:02:51 [main]-[INFO] Found text GitHub
+2019-06-24 19:02:51 [main]-[INFO] Pause 500 ms
+2019-06-24 19:02:51 [main]-[INFO] Opened url http://www.baidu.com
+2019-06-24 19:02:52 [main]-[INFO] Pause 500 ms
+2019-06-24 19:02:52 [main]-[INFO] Found element //*[@id="kw"]
+2019-06-24 19:02:52 [main]-[INFO] Found desired element //*[@id="kw"]
+2019-06-24 19:02:52 [main]-[INFO] Type lietou.com at //*[@id="kw"]
+2019-06-24 19:02:53 [main]-[INFO] Pause 500 ms
+2019-06-24 19:02:53 [main]-[INFO] Found element //*[@id="su"]
+2019-06-24 19:02:53 [main]-[INFO] Found desired element //*[@id="su"]
+2019-06-24 19:02:53 [main]-[INFO] Clicked //*[@id="su"]
+2019-06-24 19:02:56 [main]-[INFO] Pause 3000 ms
+2019-06-24 19:02:56 [main]-[INFO] Found text 猎聘网
+2019-06-24 19:02:57 [main]-[INFO] Pause 500 ms
+2019-06-24 19:02:58 [main]-[INFO] Quitted BrowserEmulator
+2019-06-24 19:12:28 [main]-[INFO] Using Chrome
+2019-06-24 19:12:28 [main]-[INFO] Started BrowserEmulator
+2019-06-24 19:17:13 [main]-[INFO] Using Chrome
+2019-06-24 19:17:14 [main]-[INFO] Started BrowserEmulator
+2019-06-24 19:17:14 [main]-[INFO] Pause 500 ms
+2019-06-24 19:17:16 [main]-[INFO] Quitted BrowserEmulator
+2019-06-24 19:21:15 [main]-[INFO] Using Chrome
+2019-06-24 19:21:15 [main]-[INFO] Started BrowserEmulator
+2019-06-24 19:21:15 [main]-[INFO] Pause 500 ms
+2019-06-24 19:21:15 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:16 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:16 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:17 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:17 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:18 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:18 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:19 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:19 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:20 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:21 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:21 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:22 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:22 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:23 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:23 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:24 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:24 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:25 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:25 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:26 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:26 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:27 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:27 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:28 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:28 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:29 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:29 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:30 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:30 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:31 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:32 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:32 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:33 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:33 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:34 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:34 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:35 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:35 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:36 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:36 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:37 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:37 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:38 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:38 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:39 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:39 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:40 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:40 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:41 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:42 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:42 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:43 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:43 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:44 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:44 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:45 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:45 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:46 [main]-[ERROR] Failed to find element //*[@id='app']/div/div[1]/div/div[1]/input >> capture screenshot at screenshot/20190624-192146.png
+2019-06-24 19:21:47 [main]-[INFO] Pause 500 ms
+2019-06-24 19:21:47 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:47 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:48 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:48 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:49 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:50 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:50 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:51 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:51 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:52 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:52 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:53 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:53 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:54 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:54 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:55 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:55 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:56 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:56 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:57 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:57 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:58 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:58 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:21:59 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:00 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:00 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:01 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:01 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:02 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:02 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:03 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:03 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:04 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:04 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:05 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:05 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:06 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:06 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:07 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:07 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:08 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:09 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:09 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:10 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:10 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:11 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:11 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:12 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:12 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:13 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:13 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:14 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:14 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:15 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:15 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:16 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:16 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:22:17 [main]-[ERROR] Failed to find element //*[@id='app']/div/div[1]/div/div[1]/input >> capture screenshot at screenshot/20190624-192217.png
+2019-06-24 19:22:18 [main]-[INFO] Pause 500 ms
+2019-06-24 19:22:19 [main]-[INFO] Quitted BrowserEmulator
+2019-06-24 19:25:11 [main]-[INFO] Using Chrome
+2019-06-24 19:25:11 [main]-[INFO] Started BrowserEmulator
+2019-06-24 19:25:12 [main]-[INFO] Pause 500 ms
+2019-06-24 19:25:12 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:13 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:13 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:14 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:14 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:15 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:15 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:16 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:16 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:17 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:17 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:18 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:18 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:19 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:19 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:20 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:20 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:21 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:21 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:22 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:22 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:23 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:23 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:24 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:25 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:25 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:26 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:26 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:27 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:27 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:28 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:28 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:29 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:29 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:30 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:30 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:31 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:31 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:32 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:32 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:33 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:33 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:34 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:34 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:35 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:35 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:36 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:37 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:37 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:38 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:38 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:39 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:39 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:40 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:40 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:41 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:41 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:42 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:43 [main]-[ERROR] Failed to find element //*[@id='app']/div/div[1]/div/div[1]/input >> capture screenshot at screenshot/20190624-192542.png
+2019-06-24 19:25:43 [main]-[INFO] Pause 500 ms
+2019-06-24 19:25:43 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:44 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:44 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:45 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:45 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:25:46 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:26:01 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:26:15 [main]-[INFO] Not found element//*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:26:30 [main]-[ERROR] Failed to find element //*[@id='app']/div/div[1]/div/div[1]/input >> capture screenshot at Failed to screenshot
+2019-06-24 19:26:30 [main]-[INFO] Pause 500 ms
+2019-06-24 19:26:31 [main]-[INFO] Quitted BrowserEmulator
+2019-06-24 19:29:06 [main]-[INFO] Using Chrome
+2019-06-24 19:29:06 [main]-[INFO] Pause 500 ms
+2019-06-24 19:29:07 [main]-[ERROR] Failed to open url http://demo.jeecms.com/jeeadmin/jeecms/index.do#/login >> capture screenshot at screenshot/20190624-192906.png
+2019-06-24 19:33:43 [main]-[INFO] Using Chrome
+2019-06-24 19:33:43 [main]-[INFO] Started BrowserEmulator
+2019-06-24 19:33:44 [main]-[INFO] Pause 500 ms
+2019-06-24 19:33:47 [main]-[INFO] Opened url http://demo.jeecms.com/jeeadmin/jeecms/index.do#/login
+2019-06-24 19:33:47 [main]-[INFO] Pause 500 ms
+2019-06-24 19:33:47 [main]-[INFO] Found element //*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:33:47 [main]-[INFO] Found desired element //*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:33:48 [main]-[INFO] Type test at //*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:33:48 [main]-[INFO] Pause 500 ms
+2019-06-24 19:33:48 [main]-[INFO] Found element //*[@id="app"]/div/div[1]/div/div[2]/input
+2019-06-24 19:33:48 [main]-[INFO] Found desired element //*[@id="app"]/div/div[1]/div/div[2]/input
+2019-06-24 19:33:48 [main]-[INFO] Type test at //*[@id="app"]/div/div[1]/div/div[2]/input
+2019-06-24 19:33:49 [main]-[INFO] Pause 500 ms
+2019-06-24 19:33:49 [main]-[INFO] Found element //*[@id="login"]
+2019-06-24 19:33:49 [main]-[INFO] Found desired element //*[@id="login"]
+2019-06-24 19:33:49 [main]-[INFO] Clicked //*[@id="login"]
+2019-06-24 19:33:51 [main]-[INFO] Pause 500 ms
+2019-06-24 19:33:52 [main]-[INFO] Opened url http://demo.jeecms.com/jeeadmin/jeecms/index.do#/login
+2019-06-24 19:33:52 [main]-[INFO] Pause 500 ms
+2019-06-24 19:33:52 [main]-[INFO] Found element //*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:33:52 [main]-[INFO] Found desired element //*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:33:52 [main]-[INFO] Type lixx at //*[@id='app']/div/div[1]/div/div[1]/input
+2019-06-24 19:33:53 [main]-[INFO] Pause 500 ms
+2019-06-24 19:33:53 [main]-[INFO] Found element //*[@id="app"]/div/div[1]/div/div[2]/input
+2019-06-24 19:33:53 [main]-[INFO] Found desired element //*[@id="app"]/div/div[1]/div/div[2]/input
+2019-06-24 19:33:53 [main]-[INFO] Type lixx at //*[@id="app"]/div/div[1]/div/div[2]/input
+2019-06-24 19:33:53 [main]-[INFO] Pause 500 ms
+2019-06-24 19:33:54 [main]-[INFO] Found element //*[@id="login"]
+2019-06-24 19:33:54 [main]-[INFO] Found desired element //*[@id="login"]
+2019-06-24 19:33:54 [main]-[INFO] Clicked //*[@id="login"]
+2019-06-24 19:33:56 [main]-[INFO] Pause 500 ms
+2019-06-24 19:33:57 [main]-[INFO] Quitted BrowserEmulator

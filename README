@@ -1,0 +1,22 @@
+==================================2019Selenium完整框架================================
+一、工具类
+1、所有selenium操作：BrowserEmulator.java
+2、获取pro.properties 文件中的内容，若无值添加默认值：GlobalSettings.java
+3、日志工具类（屏幕截图生成方式）:LogTools.java
+4、数据驱动工具类：ExcelDataProvider.java（excel驱动）
+                   BaiDuExcelDataDriverTest.java
+                   CSVDataProvider.java（csv驱动）
+                   Login51Testing.java
+5、FlexAutomation
+6、data：测试数据
+   res：浏览器驱动
+   screenshot：截图
+   utils： 工具类（UI自动化）
+   datadriver：数据驱动
+   demo：项目模块测试类
+   flexauto：
+   imagecheck：图像对比工具
+   test：测试类(自己练习的组件测试类)
+   script：页面脚本（页面链接，点击输入事件）
+   reacttest：react页面测试
+

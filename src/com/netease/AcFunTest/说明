@@ -1,0 +1,56 @@
+一、TestXpath
+    1、根据xpath获取同一属性的元素，并循环取出数据
+    2、截图百度首页
+    3、alert弹出框
+    4、confirm弹出框
+    5、prompt弹出框
+    6、iframe测试
+    7、下拉框的处理（3种方式）
+    8、打开一个新窗口
+    9、等待（线程等待、全局等待、显示等待）
+二、TestActions
+    1、右键
+    2、双击
+    3、移动
+    4、拖拽:拖拽到指定位置
+    5、拖拽:把元素el1拖拽到el2
+    6、多选   选中从0-2的下拉数据
+    7、保存html
+    8、上传
+三、DownLoadTest
+    通过打开火狐浏览器，下载火狐软件安装包
+四、ChromeOp
+    通过打开谷歌浏览器，下载火狐软件安装包
+五、JSTest
+    访问百度，通过js传搜索值
+六、实战
+    1、完成163邮箱注册RegisterTest.java
+    2、完成正确账号的登录LoginTest.java
+    3、完成错误账号的登录
+    4、完成附带附件的发送邮件SendEmail.java
+七、PhantomJs使用
+    PhantomjsTest.java
+八、selenium Grid使用
+    GridTest.java
+    1、何时需要selenium grid
+        （1）需要在不同系统和浏览器运行测试
+        （2）减少测试执行时间
+    2、TestNG数据驱动
+        DataProvider注解
+        DataDriverTest.java
+九、PO(Page-Object)理念
+LoginTest.java
+LoginPage.java
+    *Page-Object思想理念
+        为什么要使用page-object
+        （1）集中管理元素对象
+        （2）集中管理一个page内的公共方法
+        （3）后期维护方便
+    *代码重构演示
+        po引入优点
+        （1）减少代码冗余
+        （2）业务和实现分开
+        （3）降低维护成本
+十、
+
+
